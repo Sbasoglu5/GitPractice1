@@ -4,8 +4,14 @@ public class Main {
         class1.name="Hamid";
         class1.age="24";
 
+
         OlhaFeatures add=new OlhaFeatures();
         add.name="Olha";
         add.age=22;
+
+        SavoFeatures add1=new SavoFeatures();
+        add1.name="Savo";
+        add1.age=25;
+        
     }
 }
